@@ -1,3 +1,15 @@
+This project aims to migrate the previous one to Jetson TX2 and Jetson Xavier. 
+
+
+
+ECE Department
+University of Dayton
+
+
+
+
+
+
 # ORB-SLAM2-GPU
 This is a fork of Raul Mur-Artal's [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2), on which we rewrite hot paths with CUDA. Our optimization enables us to run the algorithm in **real time** on a Nvidia's Jetson TX1.
 
